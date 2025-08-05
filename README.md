@@ -18,7 +18,7 @@ Designed and built a scale model of a pendulum amusement ride using dual stepper
 
 ## Media
 ![Pendulum Model](images/model_photo1.jpg)  
-[Demo Video](your-video-link-if-any)
+[Demo Video](https://go.screenpal.com/watch/cTjh2anIdFB)
 
 ## Credits
 Liberty University Theme Park Engineering Club – Team of 7 students
