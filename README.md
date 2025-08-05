@@ -18,6 +18,8 @@ Designed and built a scale model of a pendulum amusement ride using dual stepper
 
 ## Media
 ![Pendulum Model](https://github.com/Josiah-Mechy/Pendulum-Ride-Model/blob/main/Picture%20-%20LU.jpg?raw=true) 
+<img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/6b1bacda-bb7a-4221-81ea-21e0d7a67152" />
+
 [Demo Video](https://go.screenpal.com/watch/cTjh2anIdFB)
 
 ## Credits
