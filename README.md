@@ -32,7 +32,7 @@ Designed and built a scale model of a pendulum amusement ride using dual stepper
 
 - Aaron and Stephen Dooley – Wrote and tested Arduino code for stepper motor control  
 - Bernard Anderson – Wired and assembled the electronics system  
-- Brian Earls – Helped with CAD modeling and stress simulations
+- Josiah Farinacci and Brian Earls – Helped with CAD modeling and model assmebly
 - Adrian Jones - Assembled the structural components of the model
 
 ---
