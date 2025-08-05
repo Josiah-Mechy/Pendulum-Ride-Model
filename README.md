@@ -38,8 +38,10 @@ Designed and built a scale model of a pendulum amusement ride using dual stepper
 
 ## 💻 Code
 
-The Arduino code used to drive the stepper motors and simulate swing motion is available in the `code/` folder.  
-**Note**: Code was written by other team members. Included here for reference and completeness.
+The full code for this project is available in the team repository:
+👉 [View Team Code Repository](https://github.com/team-username/project-repo-name)
+
+I was responsible for the mechanical design and physical build. The code was written by my teammates, and is linked here for reference.
 
 ---
 
