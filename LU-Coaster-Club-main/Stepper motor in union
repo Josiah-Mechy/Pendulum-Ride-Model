@@ -1,0 +1,42 @@
+// Define stepper motor connections:
+#define dirPin 2
+#define stepPin 3
+
+// Steps per revolution for a NEMA 17 (typically 200)
+#define STEPS_PER_REVOLUTION 200
+#define STEPS_PER_SWING 400  // Two full revolutions
+
+void setup() {
+  // Declare pins as output:
+  pinMode(stepPin, OUTPUT);
+  pinMode(dirPin, OUTPUT);
+
+  Serial.begin(9600); 
+  Serial.println("Starting Pendulum Swing...");
+}
+
+void loop() {
+  // === First swing direction ===
+  Serial.println("Swinging forward (2 revolutions)");
+  digitalWrite(dirPin, HIGH); // Direction 1
+
+  for (int i = 0; i < STEPS_PER_SWING; i++) {
+    digitalWrite(stepPin, HIGH);
+    delayMicroseconds(500);
+    digitalWrite(stepPin, LOW);
+    delayMicroseconds(500);
+  }
+  delay(800); // Pause at the end of the swing
+
+  // === Reverse swing direction ===
+  Serial.println("Swinging backward (2 revolutions)");
+  digitalWrite(dirPin, LOW); // Direction 2
+
+  for (int i = 0; i < STEPS_PER_SWING; i++) {
+    digitalWrite(stepPin, HIGH);
+    delayMicroseconds(500);
+    digitalWrite(stepPin, LOW);
+    delayMicroseconds(500);
+  }
+  delay(800); // Pause again before next swing
+}

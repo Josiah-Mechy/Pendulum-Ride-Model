@@ -1,0 +1,65 @@
+______________________________________________________________________________________________________
+                                        Lessons Learned 2024-2025
+______________________________________________________________________________________________________
+---> Meet voltage requirements
+    L---> power supply
+    L---> LOTS OF WIRES OF VARYING LENGTHS
+         L---> Also consider different gauges/ratings
+    L---> Voltage stepdown
+
+---> Whole controls team should learn basic soldering skills
+
+---> Check inventory of tools
+    L---> drills with bits
+    L---> box cutter/knife
+    L---> Wire cutter/stripper
+    L---> screwdriver kit
+    L---> wrenches
+    L---> If inventory of tools is lacking, go to harbor freight, then lowes in that order (reason: prices & selection)
+
+---> Do inventory check of necessary possible circuit elements (i.e. resistors, diodes, transistors, potentiometer, LEDs, etc.)
+
+---> Mechies are your friend! If they can make something, like a gearbox to increase torque, ask for it early on.
+
+---> Review budget. Any missing parts, components, tools, etc., put in a product order sheet as soon as physically possible.
+
+---> If there is an opportunity during the semester to advertise the club, DO IT.
+    L---> Doesn't matter if they are brand new or a veteran in the field, let them join and we can train the newbies as needed.
+
+---> If we have the space at Hudgins, meet there rather than the DeMoss classroom.
+
+---> Figure out carpooling/communication amongst the team.
+    L---> regarding communication, get contact information to keep updated on what's happening.
+
+---> Machine shop training for Hudgins
+
+---> KEY CARD ACCESS!!!!!!! VERY IMPORTANT
+
+---> Encourage creativity/out of the box thinking.
+    L---> Don't discredit any ideas, it may end up being the best solution.
+
+---> Anticipate EVERYTHING breaking
+    L---> Anticipate the fact that EVERYTHING IS GOING TO BREAK
+    L---> Duplicates of everything makes sure the club is still going smoothly
+
+---> Teach new members how to make product orders
+
+---> Teach new members how to navigate the teams files and teams in general.
+
+---> Make a timeline early on with specific dates.
+    L---> Ballpark those dates and move things around those scheduled dates.
+
+---> Make sure that a significant amount the controls team is able to interpret any schematics or technical drawings.
+    L---> Encourage the solidworks training that is given by the School of Engineering
+    L---> Utilize more MatLab and SimuLink
+
+---> Meet more consistantly for club meetings
+    L---> Encourage attendance for the club. Not exactly force, but just make sure the person(s) are meeting regularly.
+
+---> Make sure that everyone brings their laptop.
+    L---> You don't know who is and isn't going to be there.
+
+---> Every club member, new or veteran, remember that this is a commitment you CHOOSE to make.
+    L---> Do not say that you are commited and then proceed to not show up.
+    L---> If you need help, ask.
+    L---> Communicate for everything.
