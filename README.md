@@ -20,11 +20,11 @@ Designed and built a scale model of a pendulum amusement ride using dual stepper
 
 ## 👨‍🔧 My Contributions
 
-- Designed and 3D printed the gondola and lap bar system  
-- Led mechanical assembly of the pendulum structure  
+- Designed and 3D printed the gondola, seats, and lap bar system  
+- Led assembly of the stepper motors
 - Selected and implemented steel support beams and base materials  
-- Created the documentation and portfolio repository  
-- Assisted in early-stage testing and validation of motor behavior
+- Created competition documentation
+- Assisted in testing and validation of motor behavior
 
 ---
 
@@ -32,7 +32,7 @@ Designed and built a scale model of a pendulum amusement ride using dual stepper
 
 - Aaron and Stephen Dooley – Wrote and tested Arduino code for stepper motor control
 - Bernard Anderson – Wired and assembled the electronics system
-- Josiah Farinacci and Brian Earls – Assisted with CAD modeling, documentation, and model assembly
+- Brian Earls – Assisted with CAD modeling, documentation, and model assembly
 - Adrian Jones and Elliot – Assembled structural components and contributed to documentation
 
 ---
