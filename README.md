@@ -46,6 +46,9 @@ The Arduino code used to drive the stepper motors and simulate swing motion is a
 ## 📷 Gallery
 <img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/6b1bacda-bb7a-4221-81ea-21e0d7a67152" />
 *Full ride assembly.*
+
+(https://go.screenpal.com/watch/cTjh2anIdFB)
+*Demo Video.*
 ---
 
 ## 📁 File Structure
@@ -69,7 +72,7 @@ Pendulum-Ride-Model/
 ---
 
 
-[Demo Video](https://go.screenpal.com/watch/cTjh2anIdFB)
+
 
 ## Credits
 Liberty University Theme Park Engineering Club – Team of 7 students
