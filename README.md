@@ -17,7 +17,7 @@ Designed and built a scale model of a pendulum amusement ride using dual stepper
 - Stepper Motors & Drivers
 
 ## Media
-![Pendulum Model](images/model_photo1.jpg)  
+![Pendulum Model](https://github.com/Josiah-Mechy/Pendulum-Ride-Model/blob/main/Picture%20-%20LU.jpg?raw=true) 
 [Demo Video](https://go.screenpal.com/watch/cTjh2anIdFB)
 
 ## Credits
