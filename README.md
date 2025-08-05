@@ -39,7 +39,7 @@ Designed and built a scale model of a pendulum amusement ride using dual stepper
 ## 💻 Code
 
 The full code for this project is available in the team repository:
-👉 [View Team Code Repository](https://github.com/team-username/project-repo-name)
+👉 [View Team Code Repository][(https://github.com/team-username/project-repo-name)](https://github.com/Josiah-Mechy/Pendulum-Ride-Model/tree/main/LU-Coaster-Club-main)
 
 I was responsible for the mechanical design and physical build. The code was written by my teammates, and is linked here for reference.
 
