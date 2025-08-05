@@ -30,9 +30,10 @@ Designed and built a scale model of a pendulum amusement ride using dual stepper
 
 ## 👥 Team Contributions
 
-- [Team Member A & B] – Wrote and tested Arduino code for stepper motor control  
-- [Team Member C] – Wired and assembled the electronics system  
-- [Team Member D] – Helped with CAD modeling and stress simulations
+- Aaron and Stephen Dooley – Wrote and tested Arduino code for stepper motor control  
+- Bernard Anderson – Wired and assembled the electronics system  
+- Brian Earls – Helped with CAD modeling and stress simulations
+- Adrian Jones - Assembled the structural components of the model
 
 ---
 
@@ -51,17 +52,6 @@ I was responsible for the mechanical design and physical build. The code was wri
 
 (https://go.screenpal.com/watch/cTjh2anIdFB)
 *Demo Video.*
----
-
-## 📁 File Structure
-Pendulum-Ride-Model/
-├── README.md
-├── images/
-│ ├── final_model.jpg
-│ ├── side_view.jpg
-│ └── support_frame.jpg
-├── code/
-│ └── stepper_motor_control.ino
 
 ---
 
