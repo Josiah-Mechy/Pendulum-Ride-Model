@@ -40,6 +40,7 @@ Designed and built a scale model of a pendulum amusement ride using dual stepper
 - SOLIDWORKS Drawings: https://github.com/Josiah-Mechy/Pendulum-Ride-Model/tree/main/Implemented 
 - Competition Advertisement Poster: https://github.com/Josiah-Mechy/Pendulum-Ride-Model/blob/main/TPE%40LU2025Poster.pptx
 - Total Expenditures: https://github.com/Josiah-Mechy/Pendulum-Ride-Model/blob/main/Total%20Expenditures.xlsx
+- Risk Assessment: https://github.com/Josiah-Mechy/Pendulum-Ride-Model/blob/main/TPE%40LU2025RA.docx
 
 ## Code
 
