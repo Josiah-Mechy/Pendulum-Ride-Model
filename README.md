@@ -55,7 +55,7 @@ I was responsible for the mechanical design and physical build. The code was wri
 *Full ride assembly.*
 
 (https://go.screenpal.com/watch/cTjh2anIdFB)
-*Demo Video.*
+*Competition Video.*
 
 ---
 
