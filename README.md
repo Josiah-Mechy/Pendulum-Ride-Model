@@ -20,13 +20,11 @@ Designed and built a scale model of a pendulum amusement ride using dual stepper
 
 ## My Contributions
 
-- Designed and 3D printed the gondola, seats, and lap bar system  
+- Designed and 3D printed the gondola, seats, and lap bar system
 - Led assembly of the stepper motors
-- Selected and implemented steel support beams and base materials  
-- Created competition documentation
+- Selected and implemented steel support beams and base materials
 - Assisted in testing and validation of motor behavior
-- SOLIDWORKS Gondala Assembly: 
-
+- Created service documentation, mechanical drawings, and advertisment poster
 ---
 
 ## Team Contributions
@@ -37,6 +35,11 @@ Designed and built a scale model of a pendulum amusement ride using dual stepper
 - Adrian Jones and Elliot – Assembled structural components and contributed to documentation
 
 ---
+## Documentation
+- SOLIDWORKS Gondala Assembly: https://github.com/Josiah-Mechy/Pendulum-Ride-Model/blob/main/Gondala%20Assembly%20Theme%20Park%20Competition%20Team%20STL.SLDASM
+- SOLIDWORKS Drawings: https://github.com/Josiah-Mechy/Pendulum-Ride-Model/tree/main/Implemented 
+- Competition Advertisement Poster: https://github.com/Josiah-Mechy/Pendulum-Ride-Model/blob/main/TPE%40LU2025Poster.pptx
+- Total Expenditures: https://github.com/Josiah-Mechy/Pendulum-Ride-Model/blob/main/Total%20Expenditures.xlsx
 
 ## Code
 
