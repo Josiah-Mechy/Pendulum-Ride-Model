@@ -25,6 +25,7 @@ Designed and built a scale model of a pendulum amusement ride using dual stepper
 - Selected and implemented steel support beams and base materials  
 - Created competition documentation
 - Assisted in testing and validation of motor behavior
+- SOLIDWORKS Gondala Assembly: 
 
 ---
 
